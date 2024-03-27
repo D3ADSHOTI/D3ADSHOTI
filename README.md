@@ -71,3 +71,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
       <a href="" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
    </p>
+<hr>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ADSHOTI&show_icons=true&theme=radical)

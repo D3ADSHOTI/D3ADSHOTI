@@ -75,6 +75,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <hr>
 <br>
 
+<h3 class="heading-element" dir="auto">📊 GitHub Stats</h3>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=D3ADSHOTI&show_icons=true&theme=radical"/></a>
 </p>

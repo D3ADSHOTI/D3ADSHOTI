@@ -8,7 +8,7 @@
 
 <p align="center" dir="auto">
 <em>
-    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. <b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>. I'm an aspiring <b>Developer. I Do </b>&nbsp; <b>Full Stack</b>&nbsp; and i'm a <b> Gaming &amp; Enthusiast.</b> </em>
+    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. <b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>. I'm an aspiring <b>Developer. I do &nbsp; <b></b>Full Stack</b>&nbsp; and i'm a <b> Gaming &amp; Enthusiast.</b> </em>
   <br>
 </p>
    <p align="left" dir="auto">

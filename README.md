@@ -8,8 +8,7 @@
 
 <p align="center" dir="auto">
 <em>
-    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>.
-    An aspiring <b>Data Structures,</b>&nbsp; <b>Full Stack</b>&nbsp; and <b> AI &amp; ML Enthusiast.</b> </em>
+    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. <b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>. I'm An aspiring <b>Developer.</b>&nbsp; <b>Full Stack</b>&nbsp; and <b> AI &amp; CS Enthusiast.</b> </em>
   <br>
 </p>
    <p align="left" dir="auto">

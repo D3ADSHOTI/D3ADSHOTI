@@ -8,12 +8,10 @@
 
 <p align="center" dir="auto">
 <em>
-    Hello World! I'm a developer I guess.. <b>Harsh Sahu</b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a>/b> <b>VIT</b>.
+    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a>/b><b></b>.
     An aspiring <b>Data Structures,</b>&nbsp; <b>Full Stack</b>&nbsp; and <b> AI &amp; ML Enthusiast.</b> </em>
   <br>
 </p>
-
-<p dir="auto">Hello World! I'm a developer I guess.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/watch?v=vO5h-9Ibmck" rel="nofollow">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 

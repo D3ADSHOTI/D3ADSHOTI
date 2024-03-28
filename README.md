@@ -6,6 +6,13 @@
     <a href="https://git.io/streak-stats"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Lover;Technology+Enjoyer;Aspiring+Real+World+Developer;Learning+Fullstack+Development)](https://git.io/typing-svg"
 </p>
 
+<p align="center" dir="auto">
+<em>
+    This is me <b>Harsh Sahu</b>, a first year <b>Computer Science</b> undergraduate from <b>VIT</b>.
+    An aspiring <b>Data Structures,</b>&nbsp; <b>Full Stack</b>&nbsp; and <b> AI &amp; ML Enthusiast.</b> </em>
+  <br>
+</p>
+
 <p dir="auto">Hello World! I'm a developer I guess.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/watch?v=vO5h-9Ibmck" rel="nofollow">

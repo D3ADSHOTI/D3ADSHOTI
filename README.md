@@ -75,7 +75,9 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <hr>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ADSHOTI&show_icons=true&theme=radical)
+<p align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ADSHOTI&show_icons=true&theme=radical)
+</p>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=D3ADSHOT1"/></a>
 </p>

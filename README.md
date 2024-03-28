@@ -41,7 +41,6 @@
 </ol>
 <br>
 
-![Saved](https://github.com/D3ADSHOTI/D3ADSHOTI/assets/76398764/f86d4e98-fe41-46eb-b3d0-3ad23d2ec878)
 <h2 class="heading-element" dir="auto">🤝 Connect with me:</h2>
 <p align="left" dir="auto">
 <a href="https://twitter.com/ID3AD_SHOTI" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>

@@ -8,7 +8,7 @@
 
 <p align="center" dir="auto">
 <em>
-    This is me <b>Harsh Sahu</b>, a first year <b>Computer Science</b> undergraduate from <b>VIT</b>.
+    Hello World! I'm a developer I guess.. <b>Harsh Sahu</b>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.<b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a>/b> <b>VIT</b>.
     An aspiring <b>Data Structures,</b>&nbsp; <b>Full Stack</b>&nbsp; and <b> AI &amp; ML Enthusiast.</b> </em>
   <br>
 </p>

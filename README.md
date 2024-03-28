@@ -82,3 +82,6 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=D3ADSHOT1&theme=dark&hide_border=true"/></a>
 </p>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3ADSHOT1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell"/></a>
+</p>

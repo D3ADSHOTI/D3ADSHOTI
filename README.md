@@ -1,3 +1,4 @@
+![Saved](https://github.com/D3ADSHOTI/D3ADSHOTI/assets/76398764/7973748a-1f87-48e8-a09e-7f4da393dceb)
 ![2f7b4ec7c96eebb031e27ec5fd9cf2a9f768493e](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/66cac648-1334-459a-839d-71aa12a74d5e)
 ![3111acb1e5c8fc483cd54896598b691cb68b89b8](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b418328b-67aa-4d01-9996-ed1a1df225f2)
 ![98d87dda63510be0e2585fdfc88724b84f8ef683](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/d79e260a-d191-46b6-9ff3-afb3aa28aef4)

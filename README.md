@@ -41,7 +41,7 @@
 <li>🙋‍♂️ Currently 21 years old</li>
 <li>🌟 I'm a passionate learner who's always hungry for knowledge.
 <li>🌱 Currently learning Python, HTML and CSS (Extreme intermediate level)</li>
-<li>💬 Ask me about Python (Selenium, Tkinter, etc)</li>
+<li>💬 Ask me about Python (Selenium, Tkinter, pyautogui, etc)</li>
 <li>📫 How to reach me: <a href="dwaynebarnard18@gmail.com">Dwaynebarnard18@gmail.com</a></li>
 <li>🧑🏼‍💻 Hire me by sending me an email</li>
 </ul>

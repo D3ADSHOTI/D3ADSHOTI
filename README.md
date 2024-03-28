@@ -24,6 +24,9 @@
    </p>
 <hr>
 <br>
+
+<img src="https://camo.githubusercontent.com/6a574163be0d8ac9cf667a168539507b3f48b3927d762b162eca766b5bdf9e2c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d313030302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d363030266c696e65733d436f6d70757465722b536369656e63652b556e64657267726164756174653b546563686e6f6c6f67792b436f6e6e6f6973736575723b4173706972696e672b41492b616e642b4d4c2b456e67696e6565723b4c6561726e696e672b46756c6c737461636b2b446576656c6f706d656e74" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Computer+Science+Undergraduate;Technology+Connoisseur;Aspiring+AI+and+ML+Engineer;Learning+Fullstack+Development" style="max-width: 100%;">
+
 <h2 class="heading-element" dir="auto">👋🏻 More About Me</h2>
 <ul dir="auto">
 <li>🙋‍♂️ Currently 21 years old</li>

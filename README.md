@@ -11,10 +11,12 @@
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1c016ee974901abaa4b4ab3015794d9dddd096404489f2bb1eea1a5060ee5400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333034303430342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 10%;"></a> 
       <a href="https://discordapp.com/users/d3ad_shot/" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="" style="max-width: 10%;"></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="" style="max-width: 10%;"></a>
       <a href="" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
    </p>
+<hr>
+
 ![2f7b4ec7c96eebb031e27ec5fd9cf2a9f768493e](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/66cac648-1334-459a-839d-71aa12a74d5e)
 ![3111acb1e5c8fc483cd54896598b691cb68b89b8](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b418328b-67aa-4d01-9996-ed1a1df225f2)
 ![98d87dda63510be0e2585fdfc88724b84f8ef683](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/d79e260a-d191-46b6-9ff3-afb3aa28aef4)
@@ -23,9 +25,8 @@
 ![b2007be0805409526984ec4bca2e5ab7dfe3fb0f](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/9888b6b0-8f6c-4e97-9335-d24f65da2911)
 ![5abaef112eb2a7964b239cb472a384520dad07d0](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/a10ae1a5-eb96-4cf8-b6a9-2abf5f97e571)
 ![53c441b6ac4cc845ef2d17d4cd53253f97f33964](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b9842c2d-67c1-4d53-b591-599999ba6226)
-<hr>
-<br>
 
+<br>
 <h2 class="heading-element" dir="auto">👋🏻 More About Me</h2>
 <ul dir="auto">
 <li>🙋‍♂️ Currently 21 years old</li>

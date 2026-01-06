@@ -34,7 +34,7 @@
 <ul dir="auto">
 <li>🙋‍♂️ Currently 23 years old</li>
 <li>🌟 I'm a passionate learner who's always hungry for knowledge.
-<li>🌱 Currently studying Python, Javascript, HTML and CSS & C#</li>
+<li>🌱 Currently studying Python, Javascript, HTML, CSS & C#</li>
 <li>💬 Ask me about anything, i'm ready to answer (C#, Tkinter, Python, CSS, etc)</li>
 <li>📫 How to reach me: <a href="dwaynebarnard18@gmail.com">dwaynebarnard18@gmail.com</a></li>
 <li>🧑🏼‍💻 Hire me by sending me an email or contacting me on Github</li>

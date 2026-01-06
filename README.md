@@ -94,6 +94,3 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 </p>
 
 <hr>
-<h3 class="heading-element" dir="auto">☕ Buy me a Coffee, If you like my work and want to support :</h3>
-<p dir="auto"><a href="https://www.buymeacoffee.com/d3ad_shot" rel="nofollow"><img src="https://camo.githubusercontent.com/2536cd84c6bbb2bae7330192b263063c7fce9097a5c2958df4ac4f7b9ddc1998/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f2d2d66692d4631363036313f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465" alt="ko-fi" data-canonical-src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://camo.githubusercontent.com/2d91ef1f4811a4d103d53ce0f1f2d49fd00be666cb00d3513a4a82f8dc3bae0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465" alt="ko-fi" data-canonical-src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" style="max-width: 100%;"></a></p>

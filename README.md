@@ -8,7 +8,7 @@
 
 <p align="center" dir="auto">
 <em>
-    Hello World! I'm a developer I guess.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving life problems with code. <b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>. </em>
+    Hello World! I'm a developer, welcome to my Github.. <b></b>All coding projects are built from the ground up, from planning and designing all the way to solving life problems with code. <b>Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></b><b></b>. </em>
   <br>
 </p>
    <p align="left" dir="auto">
@@ -32,7 +32,7 @@
 <br>
 <h2 class="heading-element" dir="auto">👋🏻 More About Me</h2>
 <ul dir="auto">
-<li>🙋‍♂️ Currently 21 years old</li>
+<li>🙋‍♂️ Currently 23 years old</li>
 <li>🌟 I'm a passionate learner who's always hungry for knowledge.
 <li>🌱 Currently learning Python, HTML and CSS (intermediate level)</li>
 <li>💬 Ask me about Python (Selenium, Tkinter, pyautogui, etc)</li>

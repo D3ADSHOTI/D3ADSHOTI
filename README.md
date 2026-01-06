@@ -34,21 +34,21 @@
 <ul dir="auto">
 <li>🙋‍♂️ Currently 23 years old</li>
 <li>🌟 I'm a passionate learner who's always hungry for knowledge.
-<li>🌱 Currently learning Python, HTML and CSS (intermediate level)</li>
-<li>💬 Ask me about Python (Selenium, Tkinter, pyautogui, etc)</li>
-<li>📫 How to reach me: <a href="d3adcraftpvp@gmail.com">d3adcraftpvp@gmail.com</a></li>
-<li>🧑🏼‍💻 Hire me by sending me an email</li>
+<li>🌱 Currently studying Python, Javascript, HTML and CSS & C#</li>
+<li>💬 Ask me about anything, i'm ready to answer (C#, Tkinter, Python, CSS, etc)</li>
+<li>📫 How to reach me: <a href="dwaynebarnard18@gmail.com">dwaynebarnard18@gmail.com</a></li>
+<li>🧑🏼‍💻 Hire me by sending me an email or contacting me on Github</li>
 </ul>
 
 <br>
-<h2 class="heading-element" dir="auto">⛏️ Featured Projects</h2>
+<h2 class="heading-element" dir="auto">👽Featured Projects</h2>
 <ol dir="auto">
 <li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
 <li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
 </ol>
 <br>
 
-<h2 class="heading-element" dir="auto">👾 Here are my Social Links 🤖</h2>
+<h2 class="heading-element" dir="auto">👾Here are my Social Links 🤖</h2>
 <p align="left" dir="auto">
 <a href="https://twitter.com/ID3AD_SHOTI" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/d3ad_shot1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
